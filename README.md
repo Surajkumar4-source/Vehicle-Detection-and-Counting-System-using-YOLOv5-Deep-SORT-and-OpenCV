@@ -77,3 +77,21 @@ The **Vehicle Detection and Counting System** is a real-time computer vision app
 - **Deep SORT:** https://github.com/nwojke/deep_sort
 - **Streamlit:** https://streamlit.io/
 
+
+
+
+
+
+
+# -------------- Implementation ------------------------------
+
+
+
+
+
+
+
+
+
+
+
