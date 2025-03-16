@@ -169,7 +169,8 @@ The **Vehicle Detection and Counting System** is a real-time computer vision app
 <br>
 <br>
 
-Step-4 : Marking the object with confidence
+
+
 ![image](https://github.com/user-attachments/assets/096de69b-7f3e-4ed8-ad56-bcc1d7b90400)
 
 
