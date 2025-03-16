@@ -78,12 +78,43 @@ The **Vehicle Detection and Counting System** is a real-time computer vision app
 - **Streamlit:** https://streamlit.io/
 
 
+<br>
+<br>
+
+
+
+![image](https://github.com/user-attachments/assets/22bffc72-960c-4688-8cc4-3dcf8ccdb80f)
 
 
 
 
 
-# -------------- Implementation ------------------------------
+
+<br>
+<br>
+
+
+
+![image](https://github.com/user-attachments/assets/8f897e8d-40d0-4dfe-a2e8-e9545d533505)
+
+
+
+
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/23eb1e76-a224-4238-8c0b-52d71048c871)
+
+
+
+
+
+
+<br>
+<br>
+
+
+![image](https://github.com/user-attachments/assets/fb1be9ce-9c9d-45e1-b1ca-69ff0b24a374)
 
 
 
@@ -91,6 +122,40 @@ The **Vehicle Detection and Counting System** is a real-time computer vision app
 
 
 
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+<br>
+<br>
 
 
 
