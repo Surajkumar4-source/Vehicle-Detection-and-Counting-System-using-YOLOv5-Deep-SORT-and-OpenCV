@@ -119,25 +119,12 @@ The **Vehicle Detection and Counting System** is a real-time computer vision app
 
 
 
-
-
-
-
 <br>
 <br>
 
 
 
-
-
-
-
-
-<br>
-<br>
-
-
-
+![image](https://github.com/user-attachments/assets/1f3d8efc-2d23-4a69-be4e-e8ff13cb0e28)
 
 
 
@@ -148,6 +135,7 @@ The **Vehicle Detection and Counting System** is a real-time computer vision app
 
 
 
+![image](https://github.com/user-attachments/assets/ec959b8f-5f78-41d3-b7f3-83b749413312)
 
 
 
@@ -157,6 +145,58 @@ The **Vehicle Detection and Counting System** is a real-time computer vision app
 <br>
 <br>
 
+![image](https://github.com/user-attachments/assets/c225df8d-892a-4008-b6ee-a320054ad4d6)
 
 
 
+
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/88dc1c02-3a5c-4aa0-a49c-2a97d04e6696)
+
+
+
+
+<br>
+<br>
+
+
+![image](https://github.com/user-attachments/assets/dfcd7bff-5334-4cd2-8ab0-888f49a1ab61)
+
+
+
+<br>
+<br>
+
+Step-4 : Marking the object with confidence
+![image](https://github.com/user-attachments/assets/096de69b-7f3e-4ed8-ad56-bcc1d7b90400)
+
+
+
+
+
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/f9b07436-a853-4a51-9056-de6203b0c422)
+
+
+<br>
+<br>
+
+
+
+![image](https://github.com/user-attachments/assets/1ab4939a-35ce-45f1-b244-90e5eefc1ce1)
+
+
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/ad7f6346-920c-427e-8877-bbb68aff81a5)
+
+
+
+
+<br>
+<br>
